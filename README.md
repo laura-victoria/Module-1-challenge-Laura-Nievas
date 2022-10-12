@@ -8,3 +8,5 @@ Here is a link to the live website!:
   https://laura-victoria.github.io/Module-1-challenge-Laura-Nievas/
 
 ![image](https://user-images.githubusercontent.com/112923011/195467715-aaa132ee-6a33-49be-bacf-aabae3d88904.png)
+
+![image](https://user-images.githubusercontent.com/112923011/195467786-5a4b6e99-0c55-4c89-b2c3-da8ca444d40e.png)
